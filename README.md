@@ -4,7 +4,7 @@ A modern logistics platform for fast, reliable parcel delivery and shipment trac
 
 
 ## 🌎 Live Site
-[View the portfolio](#) *(https://dammydx.github.io/SwiftHaul/)*
+https://dammydx.github.io/SwiftHaul/
 
 
 ## Features
